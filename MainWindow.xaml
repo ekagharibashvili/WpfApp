@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp"
         mc:Ignorable="d"
-        Title="Names" Height="500" Width="800">
+        Title="Names" Height="300" Width="500">
     <Grid Margin="10">
 
         <Grid.RowDefinitions>
